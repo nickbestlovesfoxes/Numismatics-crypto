@@ -1,0 +1,13 @@
+{
+  "itemGroup.createnumismaticscrypto": "Example Mod Tab",
+  "block.createnumismaticscrypto.example_block": "Example Block",
+  "item.createnumismaticscrypto.example_item": "Example Item",
+
+  "createnumismaticscrypto.configuration.title": "Create Numismatics Crypto Configs",
+  "createnumismaticscrypto.configuration.section.createnumismaticscrypto.common.toml": "Create Numismatics Crypto Configs",
+  "createnumismaticscrypto.configuration.section.createnumismaticscrypto.common.toml.title": "Create Numismatics Crypto Configs",
+  "createnumismaticscrypto.configuration.items": "Item List",
+  "createnumismaticscrypto.configuration.logDirtBlock": "Log Dirt Block",
+  "createnumismaticscrypto.configuration.magicNumberIntroduction": "Magic Number Text",
+  "createnumismaticscrypto.configuration.magicNumber": "Magic Number"
+}
