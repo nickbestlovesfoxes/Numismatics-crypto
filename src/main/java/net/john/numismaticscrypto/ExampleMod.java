@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package net.john.numismaticscrypto;
 
 import org.slf4j.Logger;
 
